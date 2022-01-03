@@ -1,0 +1,14 @@
+{
+  "name": "jtc-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon main.ts"
+  },
+  "dependencies": {
+    "prompt": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt": "^1.1.2"
+  }
+}
